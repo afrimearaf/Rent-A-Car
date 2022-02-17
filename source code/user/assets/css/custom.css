@@ -1,0 +1,8 @@
+.tabs button:hover {
+  background-color: #f33f3f !important;
+}
+
+/* Create an active/current tablink class */
+.tabs button.active {
+  background-color: #f33f3f !important;
+}
